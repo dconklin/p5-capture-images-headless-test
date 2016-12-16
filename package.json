@@ -1,0 +1,26 @@
+{
+  "name": "twitterbot-test",
+  "version": "1.0.0",
+  "description": "Testing possible functionality of a twitter bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "Processing",
+    "P5",
+    "JS",
+    "Node"
+  ],
+  "author": "David Conklin",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14",
+    "system": "^1.1.1",
+    "twit": "^2.2.5",
+    "webpage": "^0.3.0"
+  }
+}
